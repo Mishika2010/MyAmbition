@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Satisfy&display=swap');
+
+body{
+    font-family: 'Satisfy', cursive;
+    background-color: palevioletred (129, 159, 241);
+    text-align: center;
+    padding: 20px;
+}
+
+h1{
+     color: mediumvioletred;
+     padding: 10px;
+     font-size: 50px;
+}
+
+h2{
+    color: crimson;
+    padding: 10px;
+}
+
+p{
+    padding: 10px;
+    font-size: 30px;
+}
+
+img{
+    width: 400px;
+    border: 5px solid black;
+    border-radius: 10px;
+}
